@@ -11,6 +11,6 @@ The site is continuously delivered by AWS Amplify and continuously integrated by
 
 ## Contact Me
 Feel free to reach out to me for collaboration or job opportunities. My contact information can be found in the `Contact` section of my portfolio website and below:
-- My website: [Talion Space](https://yuzhuozheng.com/)
+- My website: [Talion Space](https://yuzhuozheng.com/) or [Talion's page on Github](https://similato87.github.io/CV/)
 - My LinkedIn: [Yuzhuo's LinkedIn](https://www.linkedin.com/in/talion-zheng-6a157a239)
 - My GitHub: [Yuzhuo's GitHub](https://github.com/similato87)
