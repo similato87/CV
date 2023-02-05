@@ -1,3 +1,4 @@
+[![Deploy static content to Pages](https://github.com/similato87/CV/actions/workflows/static.yml/badge.svg)](https://github.com/similato87/CV/actions/workflows/static.yml)
 # My Personal Portfolio Website
 
 Welcome to my personal portfolio website! This website showcases my projects, experiences, and skills.
