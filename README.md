@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This website showcases my projects, ex
 I am a software developer with 1 year of experience. My areas of expertise include data science and backend development.
 
 ## Technique
-The site is continuously delivered by AWS Amplify and continuously integrated by GitHub Action, with domain registration and certificate management implemented by AWS Route53.
+The site is continuously delivered by AWS Amplify and continuously integrated by GitHub Actions, with domain registration and certificate management implemented by AWS Route53.
 - My AWS Certification: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4895925b-ed7d-4bef-a304-6eb8fc7fbfdc/linked_in_profile)
 
 ## Contact Me
